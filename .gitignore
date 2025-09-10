@@ -1,0 +1,18 @@
+# Arquivos temporários do NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup
+*~
